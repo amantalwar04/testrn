@@ -38,8 +38,10 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse {
-    background-color: #347DBE;
-    border-color: #015CAE;
+    background-color: #000;
+    border-color: #000000;
+	 background: no-repeat;
+ background-image: url('../images/logo.png');
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
     color: white;
