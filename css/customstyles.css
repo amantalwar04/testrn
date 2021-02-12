@@ -1,7 +1,10 @@
 body {
     font-size:15px;
 }
-
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
 .bs-callout {
     padding: 20px;
     margin: 20px 0;
